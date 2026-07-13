@@ -26,7 +26,7 @@ export function ExampleBoxPage() {
           fontSize="1.2rem"
           type="box"
           rotate={-30}
-          cellSize={80}
+          watermarkCellSize={80}
         />
         <div style={{ position: "relative", zIndex: 1, padding: 16 }}>
           <h2>Document Preview</h2>
@@ -48,7 +48,7 @@ export function ExampleBoxPage() {
     fontSize="1.2rem"
     type="box"
     rotate={-30}
-    cellSize={80}
+    watermarkCellSize={80}
   />
   <div>...</div>
 </div>`}

@@ -25,7 +25,7 @@ export function ExampleOverlayPage() {
           fontSize="2rem"
           type="overlay"
           rotate={-45}
-          cellSize={160}
+          watermarkCellSize={160}
         />
         <div style={{ position: "relative", zIndex: 1, padding: 32 }}>
           <h2>Staging Environment</h2>
@@ -46,7 +46,7 @@ export function ExampleOverlayPage() {
   fontSize="2rem"
   type="overlay"
   rotate={-45}
-  cellSize={160}
+  watermarkCellSize={160}
 />`}
       </pre>
     </section>

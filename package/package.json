@@ -1,6 +1,6 @@
 {
   "name": "react-watermark-overlay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React overlay watermark component for staging/test environments",
   "main": "dist/Watermark.js",
   "types": "dist/Watermark.d.ts",
@@ -15,10 +15,20 @@
     "react",
     "watermark",
     "overlay",
+    "staging",
     "typescript"
   ],
   "author": "jjh2613@",
   "license": "MIT",
+  "homepage": "https://jjh2613.github.io/react-watermark-overlay/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjh2613/react-watermark-overlay.git",
+    "directory": "package"
+  },
+  "bugs": {
+    "url": "https://github.com/jjh2613/react-watermark-overlay/issues"
+  },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0"
   },

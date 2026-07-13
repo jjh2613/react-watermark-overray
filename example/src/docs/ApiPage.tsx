@@ -96,10 +96,10 @@ export function ApiPage() {
             </td>
           </tr>
           <tr>
-            <td style={{ padding: 8 }}>cellSize</td>
+            <td style={{ padding: 8 }}>watermarkCellSize</td>
             <td style={{ padding: 8 }}>number</td>
             <td style={{ padding: 8 }}>
-              <code>320</code>
+              <code>160</code>
             </td>
             <td style={{ padding: 8 }}>
               The size of each watermark cell (distance between repeated texts).
